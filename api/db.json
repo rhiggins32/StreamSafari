@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "Ryan's Road",
+      "description": "Streaming my journey to become a SWE, one project at a time.",
+      "id": 1
+    },
+    {
+      "title": "eSports Evolved",
+      "description": "24/7 Pro Gaming",
+      "id": 2
+    },
+    {
+      "title": "Cooking Corner",
+      "description": "Cooking Lessons from your favorite chefs",
+      "id": 3
+    },
+    {
+      "title": "Sports Safari",
+      "description": "Sports highlights from around the globe",
+      "id": 4
+    },
+    {
+      "title": "Doctors Desk",
+      "description": "Health/medicine news channel",
+      "id": 5
+    },
+    {
+      "title": "Music Mania",
+      "description": "The hottest new music videos",
+      "userId": "108267033901630406386",
+      "id": 6
+    }
+  ]
+}
